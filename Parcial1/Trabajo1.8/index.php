@@ -9,6 +9,7 @@
 
 <div class="margin">
     <h1 class="titulo"> Páginas de Omega Up</h1>
+    
     <ul class="links">
         <li><a href="ejercicio1.php">4352. Bit de paridad</a></li>
         <li><a href="ejercicio2.php">4886. Autores </a></li>
